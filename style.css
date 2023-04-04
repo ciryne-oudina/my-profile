@@ -1,0 +1,70 @@
+body {
+background-color: rgb(230, 230, 230);
+color: black;
+font-family: Arial;
+font-size: 20px
+}
+
+h1 {
+color: purple;
+    font-family: American Typewriter;
+    font-weight: 200;
+    letter-spacing: 5px;
+    font-size: 35px;
+    text-transform: uppercase;
+}
+
+h2 {
+color: lightpurple;
+    font-family: Times;
+    font-weight: 200;
+    letter-spacing: 5px;
+    font-size: 35px;
+    text-transform: uppercase;
+}
+
+div {
+background: white;
+padding: 50px;
+border: 3px solid purple;
+border-radius: 8px;
+margin: 35px;
+box-shadow: 0px 3px 5px mediumpurple;
+text-align: center;
+}
+
+#photo { 
+    border-radius: 50%;
+    box-shadow: 0px 3px 5px purple;
+    }
+
+a:hover {
+    color: black;
+}
+
+a{
+    text-decoration:none;
+    color:purple;
+    font-weight:lighter;
+    font-size:15px;
+    transition:color 0.3s ease;
+    letter-spacing: 5px;
+}
+
+.btn-red {
+    background-color: purple;
+    color: white;
+    padding: 10px 10px;
+    border-radius: 7px;
+}
+
+
+
+
+
+
+
+
+
+
+
